@@ -1,0 +1,115 @@
+[
+  {
+    "name": "test_shape",
+    "function": "test_shape",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_shape_properties",
+    "function": "test_shape_properties",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_shape_init_illegal_color",
+    "function": "test_shape_init_illegal_color",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_rectangle_properties",
+    "function": "test_rectangle_properties",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_rectangle_init",
+    "function": "test_rectangle_init",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_rectangle_init_default_width",
+    "function": "test_rectangle_init_default_width",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_rectangle_init_invalid_height",
+    "function": "test_rectangle_init_invalid_height",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_rectangle_set_invalid_height",
+    "function": "test_rectangle_set_invalid_height",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_rectangle_area",
+    "function": "test_rectangle_area",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_square_properties",
+    "function": "test_square_properties",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_square_init",
+    "function": "test_square_init",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_square_init_default_width",
+    "function": "test_square_init_default_width",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_square_area",
+    "function": "test_square_area",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_circle_properties",
+    "function": "test_circle_properties",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_circle_init",
+    "function": "test_circle_init",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_circle_init_invalid_radius",
+    "function": "test_circle_init_invalid_radius",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_circle_set_invalid_radius",
+    "function": "test_circle_set_invalid_radius",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_circle_area",
+    "function": "test_circle_area",
+    "timeout": 10,
+    "points": 1
+  },{
+    "name": "test_inheritance",
+    "function": "test_inheritance",
+    "timeout": 10,
+    "points": 1
+  }
+]
